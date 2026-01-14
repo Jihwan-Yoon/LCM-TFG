@@ -34,7 +34,7 @@ LCM-TFG-Project/
 └── requirements.txt        # Python dependencies
 ```
 
-## Usage
+## 🚀 Usage
 
 ### Installation
 
@@ -55,13 +55,13 @@ Running Experiments You can run the experiment using ```main.py```. This script 
 
 Example: ```results/red/RED_R2_S0300.png```
 
-Experimental Results (Examples)
+## 📊 Experimental Results (Examples)
 
 (Place your grid image here)
 
 Observation: We observed that applying Recurrence (Time-Travel) significantly improves the stability of guidance in LCM. Higher recurrence levels (N=2, 4) allow the model to tolerate larger guidance scales without image collapse, confirming the Stability-Plasticity trade-off.
 
-References
+## 🔗 References
 
 Latent Consistency Models: Luo, Simian, et al. "Latent consistency models: Synthesizing high-resolution images with few-step inference." arXiv preprint arXiv:2310.04378 (2023).
 
