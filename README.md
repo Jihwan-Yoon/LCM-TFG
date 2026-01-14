@@ -73,7 +73,8 @@ python main.py --prompt "A cyberpunk city with neon lights" --seed 42 --gpus 0,1
 ```
 
 
-### Output Format Results are saved in a structure optimized for bulk-uploading to Notion databases or easy filtering: ```results/{Loss_Name}/{LOSS}{RECUR}{SCALE}.png```
+### Output Format 
+Results are saved in a structure optimized for bulk-uploading to Notion databases or easy filtering: ```results/{Loss_Name}/{LOSS}{RECUR}{SCALE}.png```
 
 Example: ```results/red/RED_R2_S0300.png```
 
