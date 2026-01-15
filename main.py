@@ -3,7 +3,7 @@ import torch.multiprocessing as mp
 import os
 import argparse
 from tqdm import tqdm
-from src import LCMWorker, LOSS_DICT  # __init__.py를 활용한 import
+from src import LCMWorker, LOSS_DICT  
 
 # ==========================================
 # Worker Process
